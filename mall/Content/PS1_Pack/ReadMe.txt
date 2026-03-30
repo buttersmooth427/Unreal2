@@ -1,0 +1,1 @@
+Copy contents into the root folder of your project. EG The Content folder on the drive location
