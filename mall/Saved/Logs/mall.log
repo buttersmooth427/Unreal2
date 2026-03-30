@@ -2334,3 +2334,46 @@ Make sure '/Game/FirstPerson/Blueprints/BP_Door2.BP_Door2_C' has been compiled f
 [2026.03.30-14.46.20:421][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.30-14.46.20:421][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.30-14.46.20:421][371]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.03.30-14.48.40:662][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.30-14.48.40:664][231]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.022
+[2026.03.30-14.48.40:665][231]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Door2] ([2] browsable assets)...
+[2026.03.30-14.48.40:691][231]LogPSOHitching: Encountered 500 PSO creation hitches so far (181 graphics, 319 compute). 0 of them were precached.
+[2026.03.30-14.48.40:758][231]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Door2.BP_Door2]
+[2026.03.30-14.48.40:758][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Door2]
+[2026.03.30-14.48.40:758][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Door2" FILE="../../../../../../Unreal2/mall/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Door2_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.03.30-14.48.40:770][231]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Door2_Auto3
+[2026.03.30-14.48.40:770][231]LogSavePackage: Moving '../../../../../../Unreal2/mall/Saved/BP_Door2_Auto31ADEB19E489067AEAFD80DA13CF07C26.tmp' to '../../../../../../Unreal2/mall/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Door2_Auto3.uasset'
+[2026.03.30-14.48.40:771][231]LogFileHelpers: Auto-saving content packages took 0.106
+[2026.03.30-14.50.15:810][587]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2123.832764
+[2026.03.30-14.50.16:810][590]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-14.50.16:810][590]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2124.497559, Update Interval: 355.590698
+[2026.03.30-14.55.37:585][553]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2026.03.30-14.55.37:590][553]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PL2492Q (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.30-14.55.37:590][553]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{8b15d5f9-ba3b-42c4-ba25-610fe1838ff8}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.30-14.55.37:836][553]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{8b15d5f9-ba3b-42c4-ba25-610fe1838ff8}]
+[2026.03.30-14.55.37:836][553]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.30-14.55.37:836][553]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.30-14.55.38:173][554]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8b15d5f9-ba3b-42c4-ba25-610fe1838ff8}, Name=PL2492Q (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.32
+[2026.03.30-14.55.38:173][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.30-14.55.38:173][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.30-14.55.38:174][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.30-14.56.54:530][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2522.556396
+[2026.03.30-14.56.55:529][786]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-14.56.55:529][786]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2523.218262, Update Interval: 334.739838
+[2026.03.30-14.59.43:510][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.30-14.59.43:513][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.30-14.59.43:536][482]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Door2] ([2] browsable assets)...
+[2026.03.30-14.59.43:536][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Door2]
+[2026.03.30-14.59.43:536][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Door2" FILE="../../../../../../Unreal2/mall/Content/FirstPerson/Blueprints/BP_Door2.uasset" SILENT=true
+[2026.03.30-14.59.43:547][482]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Door2
+[2026.03.30-14.59.43:548][482]LogSavePackage: Moving '../../../../../../Unreal2/mall/Saved/BP_Door298DE0BD341A2E47277339F9C65D503C5.tmp' to '../../../../../../Unreal2/mall/Content/FirstPerson/Blueprints/BP_Door2.uasset'
+[2026.03.30-14.59.43:553][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.278 ms (total: 894.239 ms)
+[2026.03.30-14.59.43:586][482]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.30-14.59.43:586][482]LogContentValidation: Enabled validators:
+[2026.03.30-14.59.43:586][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.30-14.59.43:586][482]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.30-14.59.43:586][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.30-14.59.43:586][482]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.30-14.59.43:586][482]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.30-14.59.43:586][482]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.30-14.59.43:586][482]AssetCheck: /Game/FirstPerson/Blueprints/BP_Door2 Validating asset
