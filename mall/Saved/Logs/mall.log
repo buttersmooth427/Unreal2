@@ -1761,3 +1761,47 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2026.03.30-12.10.28:566][118]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.30-12.10.28:566][118]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
 [2026.03.30-12.10.28:592][118]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal2/mall/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.30-12.11.42:656][554]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PL2492Q (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.30-12.11.42:656][554]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{8b15d5f9-ba3b-42c4-ba25-610fe1838ff8}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.30-12.11.42:755][554]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{8b15d5f9-ba3b-42c4-ba25-610fe1838ff8}]
+[2026.03.30-12.11.42:755][554]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.30-12.11.42:755][554]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.30-12.11.43:089][555]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8b15d5f9-ba3b-42c4-ba25-610fe1838ff8}, Name=PL2492Q (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=24.50
+[2026.03.30-12.11.43:089][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.30-12.11.43:089][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.30-12.11.43:090][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.30-12.13.45:880][924]LogDerivedDataCache: C:/Users/449997/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.30-12.14.08:773][992]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7330.841797
+[2026.03.30-12.14.09:773][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-12.14.09:773][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7331.508301, Update Interval: 300.822174
+[2026.03.30-12.14.15:486][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.30-12.14.15:488][ 12]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.021
+[2026.03.30-12.14.15:489][ 12]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Door] ([2] browsable assets)...
+[2026.03.30-12.14.15:502][ 12]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Door.BP_Door]
+[2026.03.30-12.14.15:502][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Door]
+[2026.03.30-12.14.15:502][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Door" FILE="../../../../../../Unreal2/mall/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Door_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.03.30-12.14.15:512][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Door_Auto2
+[2026.03.30-12.14.15:512][ 12]LogSavePackage: Moving '../../../../../../Unreal2/mall/Saved/BP_Door_Auto29AE419BD4C81E06CD90FA0B3B31C2B5A.tmp' to '../../../../../../Unreal2/mall/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Door_Auto2.uasset'
+[2026.03.30-12.14.15:513][ 12]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Door2] ([2] browsable assets)...
+[2026.03.30-12.14.15:534][ 12]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Door2.BP_Door2]
+[2026.03.30-12.14.15:534][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Door2]
+[2026.03.30-12.14.15:534][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Door2" FILE="../../../../../../Unreal2/mall/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Door2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.03.30-12.14.15:543][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Door2_Auto2
+[2026.03.30-12.14.15:543][ 12]LogSavePackage: Moving '../../../../../../Unreal2/mall/Saved/BP_Door2_Auto2B967A9CB487BC6C4AFB5B3890A12908C.tmp' to '../../../../../../Unreal2/mall/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Door2_Auto2.uasset'
+[2026.03.30-12.14.15:544][ 12]LogFileHelpers: Auto-saving content packages took 0.056
+[2026.03.30-12.19.48:812][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7670.883301
+[2026.03.30-12.19.49:813][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-12.19.49:813][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7671.549805, Update Interval: 310.391541
+[2026.03.30-12.25.52:023][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8034.102539
+[2026.03.30-12.25.53:026][239]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.30-12.25.53:026][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8034.770020, Update Interval: 349.007843
+[2026.03.30-12.29.57:768][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.30-12.29.57:838][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.30-12.29.57:854][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.30-12.29.57:869][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.30-12.29.57:879][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.022 ms (total: 377.300 ms)
+[2026.03.30-12.29.58:268][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.30-12.29.58:326][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.30-12.29.58:341][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.30-12.29.58:357][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.30-12.29.58:365][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.061 ms (total: 473.362 ms)
