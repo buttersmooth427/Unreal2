@@ -7117,3 +7117,22 @@ Sampler Limit: 32
 [2026.03.31-14.48.04:960][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
 [2026.03.31-14.48.04:977][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
 [2026.03.31-14.48.04:987][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.177 ms (total: 6.56 sec)
+[2026.03.31-14.50.49:677][175]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20796.951172
+[2026.03.31-14.50.50:675][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-14.50.50:675][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20797.617188, Update Interval: 344.261597
+[2026.03.31-14.51.09:213][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.31-14.53.12:959][272]LogPSOHitching: Encountered 2450 PSO creation hitches so far (934 graphics, 1516 compute). 0 of them were precached.
+[2026.03.31-14.53.25:487][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.31-14.53.25:491][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-14.53.25:534][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/YU/ZAH8GGZIUS5ZZLQSIJBIXQ
+[2026.03.31-14.53.25:534][719]LogSavePackage: Moving '../../../../../../Unreal2/mall/Saved/ZAH8GGZIUS5ZZLQSIJBIXQFFD4113B4AF362EF327F41A695D9B129.tmp' to '../../../../../../Unreal2/mall/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/YU/ZAH8GGZIUS5ZZLQSIJBIXQ.uasset'
+[2026.03.31-14.53.25:549][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.923 ms (total: 6.62 sec)
+[2026.03.31-14.53.25:589][719]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.31-14.53.25:589][719]LogContentValidation: Enabled validators:
+[2026.03.31-14.53.25:589][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-14.53.25:589][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-14.53.25:589][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-14.53.25:589][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-14.53.25:589][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-14.53.25:589][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-14.53.25:589][719]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
